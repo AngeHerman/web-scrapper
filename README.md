@@ -1,6 +1,6 @@
 # web-scrapper
 
-Ce projet contient deux parsers (pour l'instant )qui extraient des données de sources spécifiques. Vous pouvez choisir de lancer l'un ou l'autre parser via un menu interactif dans le script `main.py`.
+Ce projet contient deux scrapper (pour l'instant ) qui extraient des données de sources spécifiques. Vous pouvez choisir de lancer l'un ou l'autre parser via un menu interactif dans le script `main.py`.
 
 ## Contenu
 
